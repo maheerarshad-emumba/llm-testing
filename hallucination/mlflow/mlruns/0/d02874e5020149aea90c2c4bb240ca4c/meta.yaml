@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Emumba/Documents/genie%20research/llm-testing-main/llm-testing-main/hallucination/mlflow/mlruns/0/d02874e5020149aea90c2c4bb240ca4c/artifacts
+end_time: 1730956826752
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d02874e5020149aea90c2c4bb240ca4c
+run_name: grandiose-quail-290
+run_uuid: d02874e5020149aea90c2c4bb240ca4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730956819524
+status: 3
+tags: []
+user_id: Emumba

@@ -1,0 +1,10 @@
+digest: a1e97b11
+name: dataset
+profile: '{"num_rows": 4, "num_elements": 16}'
+schema: '{"mlflow_colspec": [{"type": "string", "name": "query", "required": true},
+  {"type": "string", "name": "ground_truth", "required": true}, {"type": "string",
+  "name": "context", "required": true}, {"type": "string", "name": "response", "required":
+  true}]}'
+source: '{"tags": {"mlflow.user": "Emumba", "mlflow.source.name": "C:\\Users\\Emumba\\AppData\\Roaming\\Python\\Python311\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

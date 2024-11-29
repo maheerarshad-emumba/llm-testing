@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Emumba/Documents/genie%20research/llm-testing-main/llm-testing-main/hallucination/mlflow/mlruns/0/43c1fa2e44004b9fa1113e446b807ad7/artifacts
+end_time: 1730888435503
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 43c1fa2e44004b9fa1113e446b807ad7
+run_name: welcoming-bat-442
+run_uuid: 43c1fa2e44004b9fa1113e446b807ad7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730888435396
+status: 4
+tags: []
+user_id: Emumba

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Emumba/Documents/genie%20research/llm-testing-main/llm-testing-main/hallucination/mlflow/mlruns/0/e1b3c645c697422284715694bb2d8596/artifacts
+end_time: 1730889058448
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1b3c645c697422284715694bb2d8596
+run_name: caring-bear-411
+run_uuid: e1b3c645c697422284715694bb2d8596
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730889043577
+status: 3
+tags: []
+user_id: Emumba

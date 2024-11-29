@@ -1,0 +1,5 @@
+query,ground_truth,context,response
+What is MLflow?,MLflow is an open-source platform for managing the ML lifecycle.,MLflow is used for tracking experiments and managing machine learning lifecycles.,MLflow is a cloud service for tracking your daily habits and personal tasks.
+Who developed MLflow?,MLflow was developed by Databricks.,MLflow was created by the team at Databricks to simplify ML workflows.,MLflow was developed by Databricks.
+Explain MLflow's tracking feature.,MLflow's tracking feature allows logging and tracking of experiments.,"The tracking feature in MLflow allows data scientists to record parameters, metrics, and outputs of experiments.",MLflow's tracking feature allows users to log and track their machine learning experiments.
+What is Databricks?,Databricks is a cloud-based platform for big data and AI.,Databricks provides a collaborative environment for data scientists and engineers to work on data and machine learning.,Databricks is a fitness app that helps users track workouts and diet.

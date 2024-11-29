@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Emumba/Documents/genie%20research/llm-testing-main/llm-testing-main/hallucination/mlflow/mlruns/0/a75696fe7942492eabeb021b0de02edf/artifacts
+end_time: 1730888024152
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a75696fe7942492eabeb021b0de02edf
+run_name: dapper-fish-515
+run_uuid: a75696fe7942492eabeb021b0de02edf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730888024103
+status: 4
+tags: []
+user_id: Emumba

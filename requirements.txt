@@ -1,2 +1,7 @@
 uptrain
 pandas
+falcon-evaluate
+nltk
+sentence-transformers
+mlflow
+os

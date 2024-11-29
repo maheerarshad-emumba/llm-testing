@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Emumba/Documents/genie%20research/llm-testing-main/llm-testing-main/hallucination/mlflow/mlruns/0/2403d00be7b341418891236a30a52412/artifacts
+end_time: 1730888977634
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2403d00be7b341418891236a30a52412
+run_name: invincible-slug-634
+run_uuid: 2403d00be7b341418891236a30a52412
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730888970483
+status: 4
+tags: []
+user_id: Emumba

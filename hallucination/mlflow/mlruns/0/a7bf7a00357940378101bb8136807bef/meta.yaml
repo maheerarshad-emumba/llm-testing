@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Emumba/Documents/genie%20research/llm-testing-main/llm-testing-main/hallucination/mlflow/mlruns/0/a7bf7a00357940378101bb8136807bef/artifacts
+end_time: 1730956595735
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7bf7a00357940378101bb8136807bef
+run_name: sassy-mouse-490
+run_uuid: a7bf7a00357940378101bb8136807bef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730956587821
+status: 3
+tags: []
+user_id: Emumba

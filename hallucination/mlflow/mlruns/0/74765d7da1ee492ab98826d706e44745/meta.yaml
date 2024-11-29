@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Emumba/Documents/genie%20research/llm-testing-main/llm-testing-main/hallucination/mlflow/mlruns/0/74765d7da1ee492ab98826d706e44745/artifacts
+end_time: 1730888625982
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 74765d7da1ee492ab98826d706e44745
+run_name: incongruous-dog-449
+run_uuid: 74765d7da1ee492ab98826d706e44745
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730888625891
+status: 4
+tags: []
+user_id: Emumba

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Emumba/Documents/genie%20research/llm-testing-main/llm-testing-main/hallucination/mlflow/mlruns/0/5219bee34a134ec4b8c35c7a9a6b9d99/artifacts
+end_time: 1730891157222
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5219bee34a134ec4b8c35c7a9a6b9d99
+run_name: marvelous-crow-960
+run_uuid: 5219bee34a134ec4b8c35c7a9a6b9d99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730891055037
+status: 3
+tags: []
+user_id: Emumba
